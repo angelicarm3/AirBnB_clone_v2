@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Script that starts a Flask web application listening 0.0.0.0 port 5000:"""
+"""Script that starts a Flask web application listening 0.0.0.0 port 5000:"""
 
 from flask import Flask
 
